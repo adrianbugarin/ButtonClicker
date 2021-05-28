@@ -1,0 +1,16 @@
+
+
+.clickmeb{
+    border-radius: 0px;
+    height: 100px;
+    width: 100px;
+    transform: scale(-1, 1);
+    background-color: white;
+    border-style: hidden;
+}
+
+.printb{
+    background-color: aquamarine;
+    color: whitesmoke;
+    border-style: hidden;
+}
